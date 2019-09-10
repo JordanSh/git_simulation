@@ -7,4 +7,3 @@ BBBBkBBBB
 // write your name 
 placeholder
 
-bla bla bla
